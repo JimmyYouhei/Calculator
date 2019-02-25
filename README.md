@@ -33,4 +33,8 @@ Aside fron a normal calculator can do there are serverall features
 -	For accurate calculation Big Decimal class is a must
 -	Agile Development work well for projects like this  
 
+## License
+Free Software that follow the MIT License . More detail can be see [here](https://github.com/JimmyYouhei/Calculator/blob/master/LICENSE)
+
+
 
