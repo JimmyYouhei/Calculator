@@ -20,6 +20,7 @@ A simple calculator as it is, I don’t think I have to explain more
 -	Can use special operator: % , √ , +/- and will append to the main screen smartly
 -	Handle Exception square root of negative eg: √-2
 -	Smart handle special cases eg: 10+ = 10 or 10/ = 10
+-	There are both designs for portrait and landscape layout 
 ## Possible Issue
 -	The calculator can make complex calculation so I try to test it with my best ability but for super complex calculation there may be bugs
 -	I did not pay much attention to my Math class during high school because of personal issues. So there may be arithmetic exceptions that is not known for me and not handled
